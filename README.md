@@ -20,9 +20,9 @@ _Original source (discussion thread):_ https://github.com/docker-library/mongo/i
 
 ## Run three nodes mongo replica set:
 ```
-cd multiple-node-rs
+cd multiple-nodes-rs
 docker-compose up
 ```
-mongo files will persist in `multiple-node-rs/data/db`
+mongo files will persist in `multiple-nodes-rs/data/db`
 
 _Original source:_ https://gist.github.com/crapthings/71fb6156a8e9b31a2fa7946ebd7c4edc
